@@ -4,7 +4,7 @@ Registro cronológico de avances, decisiones y cambios del proyecto.
 
 ---
 
-## [2026-03-26] – Sesión 1: Inicio del Proyecto
+# [2026-03-26] – Sesión 1: Inicio del Proyecto
 
 ###  Actividades realizadas
 - Se creó el repositorio público en GitHub con nombre, descripción y licencia MIT
