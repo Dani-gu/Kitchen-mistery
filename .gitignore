@@ -1,17 +1,33 @@
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
+# ================= UNITY =================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
+# ================= SISTEMA =================
+.DS_Store
+Thumbs.db
+
+# ================= VISUAL STUDIO =================
 .vs/
 .vscode/
-
 *.csproj
 *.unityproj
 *.sln
 *.suo
 *.tmp
 *.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ================= OTROS =================
+*.log
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
